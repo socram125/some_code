@@ -9,10 +9,5 @@ pipeline {
         echo 'hello from the trigger'
       }
     }
-    stage('coment') {
-        // Esto es solo un comentario  
-      steps {
-      }
-    }
   }
 }

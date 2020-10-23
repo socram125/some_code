@@ -11,6 +11,8 @@ pipeline {
     }
     stage('coment') {
         // Esto es solo un comentario  
+      steps {
+      }
     }
   }
 }

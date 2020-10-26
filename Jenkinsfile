@@ -6,7 +6,7 @@ pipeline {
   stages {
     stage('echo') {
       steps {
-        echo 'hello con el disparador de github'
+        echo 'hello con el disparador de github como prueba hooks'
       }
     }
   }
